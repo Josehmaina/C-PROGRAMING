@@ -1,9 +1,0 @@
-//First prgramm in c
-#include<stdio.h>
-
-  int main(){
-    printf("Frank");
-
-return 0;
-
-    }
